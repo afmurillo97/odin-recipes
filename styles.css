@@ -1,0 +1,30 @@
+.titles {
+    text-align: center;
+    font-size: 80px;
+    color: chocolate;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.descriptions {
+    text-align: justify;
+    font-size: 30px;
+    color: white;
+    background-color: chocolate;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#simple_text {
+    font-size: 20px;
+    text-align: left;
+}
+
+.recipes {
+    color: darkgoldenrod;
+    font-size: 30px;
+    text-decoration:none;
+    padding: 15px;
+}
+
+.recipes, .recipe-one {
+    text-align: center;
+}
